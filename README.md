@@ -1,7 +1,7 @@
 # storageuse
 
-A new Flutter project.
-
+I learned storageuse and securestorage. How to use, How does it work. Some part complicated. Securestorage it may work for me in the coming days.
+ 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
